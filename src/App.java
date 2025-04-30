@@ -65,7 +65,6 @@ public class App {
                                 java.util.Arrays.toString(arregloInsercionOrdenado3));
 
                 Benchmarking benchmarking = new Benchmarking();
-                System.out.println(benchmarking);
 
         }
 }
